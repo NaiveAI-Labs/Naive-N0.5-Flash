@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1650" height="1118" viewBox="0 0 1650 1118" font-family="Liberation Sans, Arial, Helvetica, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMmM4N2Q3ZC02ZWZlLTQ3YmQtYjg5Yi1iMDVlOWQxNzA3YWYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBmZWXpWiIlxtyFADaBJ7q8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphODlkOTMxZi1kYTcyLTRkYjUtYTUwNC1jMDg4NTliZTk1YjJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoi0yLR4tyQ7NReFg9fc10MQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg2LY8e/KNnk4ZN8INMPOpZ4tbmFK/feXOH7ETYY23qJSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaClrC7lEkk9sxWH2ZCy2W6cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAmY07mEhZbslwGnbHIb16I5xUXIQ3tDVMoZxzde2uGzGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIyYzg3ZDdkLTZlZmUtNDdiZC1iODliLWIwNWU5ZDE3MDdhZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNmZTBiZGQ0LTExNzUtNDRkNC05MWJkLWI2MDgwNTU2OGMxNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDYtjx78o2eThk3wg0w86lni1uYUr995c4fsRNhjbeolKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggmFUF/GGMNoEmeJwYeG1NxcQd85r+d8nNnffFTfZlWqaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGEsi+tq7dE0l3VPryEnBJF3GB2m6trkR6+UqaiBOV3t0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQI9uO6tJTwUnb92qhumtoeE9bkcE+bXPERQwRTns3lXRV3j8VAbftmzyET1jprBqwnu5E3U9BICE5+gIj37gxF8=</c2pa:manifest></metadata>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto"><path d="M0 1 L10 5 L0 9 z" fill="#555555"/></marker>
+<marker id="ahY" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto"><path d="M0 1 L10 5 L0 9 z" fill="#E0A800"/></marker>
+<marker id="ahR" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto"><path d="M0 1 L10 5 L0 9 z" fill="#8A8A8A"/></marker>
+</defs>
+<rect x="0" y="0" width="1650" height="1118" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text xml:space="preserve" x="30" y="46" font-size="25" font-weight="bold" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">Hybrid SWA–DSA architecture</text>
+<text xml:space="preserve" x="30" y="72" font-size="14" font-weight="normal" fill="#707070" text-anchor="start" font-style="normal" letter-spacing="0">Network organization and the components inside a DSA attention module</text>
+<rect x="30" y="92" width="290" height="956" rx="12" fill="#FCFCFC" stroke="#CFCFCF" stroke-width="1"/>
+<rect x="48" y="106" width="20" height="20" rx="4" fill="#111111" stroke="none" stroke-width="0"/>
+<text xml:space="preserve" x="58" y="121" font-size="12.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">A</text>
+<text xml:space="preserve" x="78" y="121" font-size="14" font-weight="bold" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">Network stack</text>
+<rect x="70" y="140" width="210" height="40" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="163.9" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Tokens → Embedding</text>
+<path d="M 175 180 L 175 204" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="50" y="204" width="250" height="452" rx="10" fill="#F1F1F1" stroke="#C4C4C4" stroke-width="1"/>
+<text xml:space="preserve" x="175" y="228" font-size="12" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Typical hybrid group</text>
+<text xml:space="preserve" x="175" y="250" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">SWA : DSA = 5 : 1</text>
+<rect x="76" y="266" width="198" height="42" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="283.65" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">SWA block 1</text>
+<text xml:space="preserve" x="175.0" y="298.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Local attention + FFN</text>
+<path d="M 175 308 L 175 326" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="76" y="326" width="198" height="42" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="343.65" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">SWA block 2</text>
+<text xml:space="preserve" x="175.0" y="358.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Local attention + FFN</text>
+<path d="M 175 368 L 175 386" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="76" y="386" width="198" height="42" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="403.65" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">SWA block 3</text>
+<text xml:space="preserve" x="175.0" y="418.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Local attention + FFN</text>
+<path d="M 175 428 L 175 446" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="76" y="446" width="198" height="42" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="463.65" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">SWA block 4</text>
+<text xml:space="preserve" x="175.0" y="478.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Local attention + FFN</text>
+<path d="M 175 488 L 175 506" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="76" y="506" width="198" height="42" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="523.65" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">SWA block 5</text>
+<text xml:space="preserve" x="175.0" y="538.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Local attention + FFN</text>
+<path d="M 175 548 L 175 566" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="76" y="566" width="198" height="50" rx="6" fill="#FFD84D" stroke="#C99A00" stroke-width="1.4"/>
+<text xml:space="preserve" x="175.0" y="588.25" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">DSA block</text>
+<text xml:space="preserve" x="175.0" y="603.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Sparse attention + FFN</text>
+<text xml:space="preserve" x="175" y="640" font-size="11.5" font-weight="normal" fill="#707070" text-anchor="middle" font-style="normal" letter-spacing="0">DSA attention is expanded in panel B  →</text>
+<path d="M 175 656 L 175 680" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="70" y="680" width="210" height="40" rx="6" fill="#E6E6E6" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="703.9" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Repeat hybrid groups</text>
+<path d="M 175 720 L 175 742" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="70" y="742" width="210" height="40" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="765.9" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Final RMSNorm</text>
+<path d="M 175 782 L 175 804" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="70" y="804" width="210" height="48" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="175.0" y="824.65" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">LM head</text>
+<text xml:space="preserve" x="175.0" y="839.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Vocabulary logits</text>
+<text xml:space="preserve" x="175" y="876" font-size="11" font-weight="italic" fill="#707070" text-anchor="middle" font-style="italic" letter-spacing="0">Schematic grouping; boundary layers omitted</text>
+<path d="M 50 892 L 300 892" fill="none" stroke="#D6D6D6" stroke-width="1" stroke-linejoin="round"/>
+<text xml:space="preserve" x="50" y="914" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">Legend</text>
+<rect x="50" y="924" width="24" height="14" rx="3" fill="#FFEFB3" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="84" y="935" font-size="11.5" font-weight="normal" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Lightning indexer (selection path)</text>
+<rect x="50" y="946" width="24" height="14" rx="3" fill="#FFD84D" stroke="#C99A00" stroke-width="1"/>
+<text xml:space="preserve" x="84" y="957" font-size="11.5" font-weight="normal" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Key DSA-specific component</text>
+<rect x="50" y="968" width="24" height="14" rx="3" fill="#D9D9D9" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="84" y="979" font-size="11.5" font-weight="normal" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Main (sparse) attention path</text>
+<path d="M 50 997 L 74 997" fill="none" stroke="#E0A800" stroke-width="2.4" stroke-linejoin="round" marker-end="url(#ahY)"/>
+<text xml:space="preserve" x="84" y="1001" font-size="11.5" font-weight="normal" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Selected top-2048 positions</text>
+<path d="M 50 1019 L 74 1019" fill="none" stroke="#8A8A8A" stroke-width="1.3" stroke-linejoin="round" stroke-dasharray="5 4" marker-end="url(#ahR)"/>
+<text xml:space="preserve" x="84" y="1023" font-size="11.5" font-weight="normal" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Residual connection</text>
+<rect x="340" y="92" width="1280" height="956" rx="12" fill="#FCFCFC" stroke="#CFCFCF" stroke-width="1"/>
+<rect x="358" y="106" width="20" height="20" rx="4" fill="#111111" stroke="none" stroke-width="0"/>
+<text xml:space="preserve" x="368" y="121" font-size="12.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">B</text>
+<text xml:space="preserve" x="388" y="121" font-size="14" font-weight="bold" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">DSA attention module</text>
+<circle cx="368" cy="156" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="160" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">1</text>
+<text xml:space="preserve" x="383" y="160" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Input</text>
+<circle cx="368" cy="327" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="331" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">2</text>
+<text xml:space="preserve" x="383" y="331" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Project</text>
+<circle cx="368" cy="483" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="487" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">3</text>
+<text xml:space="preserve" x="383" y="487" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Encode</text>
+<circle cx="368" cy="645" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="649" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">4</text>
+<text xml:space="preserve" x="383" y="649" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Cache</text>
+<circle cx="368" cy="760" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="764" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">5</text>
+<text xml:space="preserve" x="383" y="764" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Select</text>
+<circle cx="368" cy="880" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="884" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">6</text>
+<text xml:space="preserve" x="383" y="884" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Attend</text>
+<circle cx="368" cy="975" r="9" fill="#111111"/>
+<text xml:space="preserve" x="368" y="979" font-size="10.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-style="normal" letter-spacing="0">7</text>
+<text xml:space="preserve" x="383" y="979" font-size="12" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="normal" letter-spacing="0">Output</text>
+<rect x="858" y="108" width="180" height="38" rx="6" fill="#FFFFFF" stroke="#7A7A7A" stroke-width="1.2"/>
+<text xml:space="preserve" x="948.0" y="131.2" font-size="14" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Hidden state X</text>
+<path d="M 948 146 L 948 166" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="868" y="166" width="160" height="36" rx="6" fill="#FFFFFF" stroke="#7A7A7A" stroke-width="1.2"/>
+<text xml:space="preserve" x="948.0" y="188.05" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">RMSNorm</text>
+<path d="M 948 202 L 948 222" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M 692 222 L 1351 222" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M 1038 127 L 1606 127 L 1606 975" fill="none" stroke="#8A8A8A" stroke-width="1.3" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1606 975 L 1005 975" fill="none" stroke="#8A8A8A" stroke-width="1.3" stroke-linejoin="round" stroke-dasharray="5 4" marker-end="url(#ahR)"/>
+<text xml:space="preserve" x="1598" y="119" font-size="11.5" font-weight="normal" fill="#707070" text-anchor="end" font-style="italic" letter-spacing="0">residual X</text>
+<rect x="446" y="240" width="492" height="684" rx="10" fill="#EDEDED" stroke="#BDBDBD" stroke-width="1"/>
+<rect x="460" y="253" width="12" height="12" rx="2" fill="#D9D9D9" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="480" y="264" font-size="14" font-weight="bold" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">Sparse attention</text>
+<text xml:space="preserve" x="597.69140625" y="264" font-size="12" font-weight="normal" fill="#707070" text-anchor="start" font-style="normal" letter-spacing="0">(main heads)</text>
+<rect x="958" y="240" width="636" height="604" rx="10" fill="#FFF9E3" stroke="#E6C24A" stroke-width="1"/>
+<rect x="972" y="253" width="12" height="12" rx="2" fill="#FFEFB3" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="992" y="264" font-size="14" font-weight="bold" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">Lightning indexer</text>
+<text xml:space="preserve" x="1117.4375" y="264" font-size="12" font-weight="normal" fill="#707070" text-anchor="start" font-style="normal" letter-spacing="0">(selects the top-2048 keys)</text>
+<path d="M 692 222 L 692 296" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 532 280 L 852 280" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M 532 280 L 532 296" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 852 280 L 852 296" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 1351 222 L 1351 296" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 1040 280 L 1351 280" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M 1040 280 L 1040 296" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 1187 280 L 1187 296" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="460" y="296" width="144" height="62" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="532.0" y="316.25" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Q projection</text>
+<text xml:space="preserve" x="532.0" y="331.05" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">64 Q heads total</text>
+<text xml:space="preserve" x="532.0" y="345.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">8 per TP rank</text>
+<rect x="620" y="296" width="144" height="62" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="692.0" y="323.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">K projection</text>
+<text xml:space="preserve" x="692.0" y="338.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">head dim = 192</text>
+<rect x="780" y="296" width="144" height="62" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="852.0" y="323.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">V projection</text>
+<text xml:space="preserve" x="852.0" y="338.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">head dim = 128</text>
+<path d="M 532 358 L 532 428" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 692 358 L 692 428" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="460" y="428" width="144" height="46" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="532.0" y="447.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">RoPE</text>
+<text xml:space="preserve" x="532.0" y="462.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">main-attention Q</text>
+<rect x="620" y="428" width="144" height="46" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="692.0" y="447.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">RoPE</text>
+<text xml:space="preserve" x="692.0" y="462.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">main-attention K</text>
+<path d="M 692 474 L 692 616" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 852 358 L 852 616" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="620" y="616" width="304" height="56" rx="6" fill="#D9D9D9" stroke="#7A7A7A" stroke-width="1.2"/>
+<text xml:space="preserve" x="772.0" y="640.8" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Full-history K / V cache</text>
+<text xml:space="preserve" x="772.0" y="655.8" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">append the current token's K and V</text>
+<path d="M 772 672 L 772 772" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="620" y="772" width="304" height="48" rx="6" fill="#D9D9D9" stroke="#7A7A7A" stroke-width="1.2"/>
+<text xml:space="preserve" x="772.0" y="792.8" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Gather selected K / V</text>
+<text xml:space="preserve" x="772.0" y="807.8" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">at the indexer's top-2048 positions</text>
+<path d="M 532 474 L 532 856" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="540" y="700" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="italic" letter-spacing="0">Q</text>
+<path d="M 635 820 L 635 856" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="643" y="843" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="italic" letter-spacing="0">K</text>
+<path d="M 866 820 L 866 856" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="874" y="843" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="italic" letter-spacing="0">V</text>
+<rect x="460" y="856" width="190" height="48" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="555.0" y="876.8" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Q × K<tspan dy="-5" font-size="0.72em">T</tspan></text>
+<text xml:space="preserve" x="555.0" y="891.8" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">selected keys only</text>
+<path d="M 650 880 L 672 880" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="672" y="856" width="114" height="48" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="729.0" y="883.75" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Scale + softmax</text>
+<path d="M 786 880 L 808 880" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="808" y="856" width="116" height="48" rx="6" fill="#FFFFFF" stroke="#9A9A9A" stroke-width="1"/>
+<text xml:space="preserve" x="866.0" y="876.8" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">P × V</text>
+<text xml:space="preserve" x="866.0" y="891.8" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">weighted sum</text>
+<path d="M 866 904 L 866 952" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="680" y="952" width="244" height="46" rx="6" fill="#FFFFFF" stroke="#7A7A7A" stroke-width="1.2"/>
+<text xml:space="preserve" x="802.0" y="971.8" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Output projection W<tspan dy="3" font-size="0.72em">o</tspan></text>
+<text xml:space="preserve" x="802.0" y="986.8" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">TP all-reduce</text>
+<path d="M 924 975 L 975 975" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<circle cx="990" cy="975" r="14" fill="#FFFFFF" stroke="#111111" stroke-width="1.4"/>
+<path d="M 983 975 L 997 975" fill="none" stroke="#111111" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M 990 968 L 990 982" fill="none" stroke="#111111" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M 990 989 L 990 1012" fill="none" stroke="#111111" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="990" y="1032" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Attention output → FFN sublayer</text>
+<rect x="972" y="296" width="136" height="62" rx="6" fill="#FFD84D" stroke="#C99A00" stroke-width="1.4"/>
+<text xml:space="preserve" x="1040.0" y="314.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Index Q projection</text>
+<text xml:space="preserve" x="1040.0" y="332.1" font-size="14.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Q heads = 16</text>
+<text xml:space="preserve" x="1040.0" y="347.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">head dim = 128</text>
+<rect x="1122" y="296" width="130" height="62" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1187.0" y="323.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Weight projection</text>
+<text xml:space="preserve" x="1187.0" y="338.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">16 head weights</text>
+<rect x="1266" y="296" width="170" height="62" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1351.0" y="316.25" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Index K projection</text>
+<text xml:space="preserve" x="1351.0" y="331.05" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">K heads = 1</text>
+<text xml:space="preserve" x="1351.0" y="345.55" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">head dim = 128</text>
+<path d="M 1040 358 L 1040 436" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="972" y="436" width="136" height="30" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1040.0" y="454.75" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">RoPE</text>
+<path d="M 1040 466 L 1040 554" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="972" y="554" width="136" height="30" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1040.0" y="572.75" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">FP8 quantization</text>
+<path d="M 1040 584 L 1040 700" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="1048" y="650" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="italic" letter-spacing="0">q<tspan dy="-5" font-size="0.72em">I</tspan></text>
+<path d="M 1187 358 L 1187 700" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="1195" y="530" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="italic" letter-spacing="0">w[h]</text>
+<path d="M 1351 358 L 1351 382" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="1266" y="382" width="170" height="30" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1351.0" y="400.75" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">LayerNorm</text>
+<path d="M 1306 412 L 1306 436" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 1396 412 L 1396 436" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="1266" y="436" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1306.0" y="454.45" font-size="11.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">RoPE · 64D</text>
+<rect x="1356" y="436" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1396.0" y="454.45" font-size="11.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">NoPE · 64D</text>
+<path d="M 1306 466 L 1306 490" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<path d="M 1396 466 L 1396 490" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="1266" y="490" width="170" height="40" rx="6" fill="#FFD84D" stroke="#C99A00" stroke-width="1.4"/>
+<text xml:space="preserve" x="1351.0" y="506.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">K concat → 128D</text>
+<text xml:space="preserve" x="1351.0" y="521.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">along the feature axis</text>
+<path d="M 1351 530 L 1351 554" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="1266" y="554" width="170" height="30" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1351.0" y="572.75" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">FP8 quantization</text>
+<path d="M 1351 584 L 1351 624" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<text xml:space="preserve" x="1359" y="609" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="start" font-style="italic" letter-spacing="0">new k<tspan dy="3" font-size="0.72em">t</tspan></text>
+<rect x="1450" y="548" width="130" height="42" rx="6" fill="#FFFFFF" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1515.0" y="565.35" font-size="12" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Past index K cache</text>
+<text xml:space="preserve" x="1515.0" y="580.05" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">K<tspan dy="3" font-size="0.72em">0</tspan><tspan dy="-3"> … K</tspan><tspan dy="3" font-size="0.72em">t−1</tspan></text>
+<path d="M 1515 590 L 1515 645 L 1436 645" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="1266" y="624" width="170" height="42" rx="6" fill="#FFD84D" stroke="#C99A00" stroke-width="1.4"/>
+<text xml:space="preserve" x="1351.0" y="641.5" font-size="12.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Cache append</text>
+<text xml:space="preserve" x="1351.0" y="656.3" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">[K<tspan dy="3" font-size="0.72em">past</tspan><tspan dy="-3"> ; k</tspan><tspan dy="3" font-size="0.72em">t</tspan><tspan dy="-3">]  along time axis</tspan></text>
+<path d="M 1351 666 L 1351 700" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="972" y="700" width="608" height="48" rx="6" fill="#FFEFB3" stroke="#D6A91C" stroke-width="1"/>
+<text xml:space="preserve" x="1276.0" y="720.8" font-size="13.5" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Index sweep over all visible keys</text>
+<text xml:space="preserve" x="1276.0" y="735.8" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">Q<tspan dy="-5" font-size="0.72em">I</tspan><tspan dy="5"> · K</tspan><tspan dy="-5" font-size="0.72em">I</tspan><tspan dy="5">  →  scale  →  ReLU  →  weighted head sum</tspan></text>
+<path d="M 1276 748 L 1276 772" fill="none" stroke="#555555" stroke-width="1.3" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="1146" y="772" width="260" height="48" rx="6" fill="#FFD84D" stroke="#C99A00" stroke-width="1.4"/>
+<text xml:space="preserve" x="1276.0" y="792.95" font-size="14" font-weight="bold" fill="#111111" text-anchor="middle" font-style="normal" letter-spacing="0">Top-2048 positions</text>
+<text xml:space="preserve" x="1276.0" y="808.05" font-size="11" font-weight="normal" fill="#4A4A4A" text-anchor="middle" font-style="normal" letter-spacing="0">one shared selection set per query</text>
+<path d="M 1146 796 L 924 796" fill="none" stroke="#E0A800" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#ahY)"/>
+<text xml:space="preserve" x="1052" y="786" font-size="11.5" font-weight="bold" fill="#4A4A4A" text-anchor="middle" font-style="italic" letter-spacing="0">selected positions</text>
+<text xml:space="preserve" x="30" y="1078" font-size="12.5" font-weight="normal" fill="#111111" text-anchor="start" font-style="normal" letter-spacing="0">Each transformer block:  RMSNorm → Attention → residual add → RMSNorm → FFN → residual add</text>
+<text xml:space="preserve" x="30" y="1100" font-size="12" font-weight="normal" fill="#707070" text-anchor="start" font-style="normal" letter-spacing="0">The 16 indexer heads are separate from the 64 main attention heads.   FFN: MoE, with a dense first-layer exception.</text>
+</svg>

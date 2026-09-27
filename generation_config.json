@@ -1,0 +1,9 @@
+{
+  "do_sample": true,
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "repetition_penalty": 1.0,
+  "eos_token_id": 151645,
+  "pad_token_id": 151643,
+  "max_new_tokens": 131072
+}
